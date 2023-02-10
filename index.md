@@ -18,6 +18,6 @@ THis is
 
 ## Extras
 
-- [CV/résumé](https://jindrichpolivka.github.io/alternative-text/)
+- [alternative text](https://jindrichpolivka.github.io/alternative-text/)
 - First Impression (presentation)
 - [Takeaways](takeaways)
