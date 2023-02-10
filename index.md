@@ -1,5 +1,3 @@
-HI
-
 ## Hi, I’m Jindra
 
 ### Iam a graphic designer and on this page you can learn more about me and my work
