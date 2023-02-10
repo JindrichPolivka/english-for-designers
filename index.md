@@ -7,7 +7,7 @@ THis is
 ## About Me
 
 - My Story
-- [CV/résumé](experience)
+- [CV/résumé](https://jindrichpolivka.github.io/experience/)
 - Voice, Tone, and Style guide
 - Contact: `jindrich.polivka@email.cz`
 
