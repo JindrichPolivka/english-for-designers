@@ -19,4 +19,4 @@ HI
 
 - [alternative text](https://jindrichpolivka.github.io/alternative-text/)
 - [first impression](https://jindrichpolivka.github.io/first-impression/)
-- [Takeaways](takeaways)
+- [Takeaways](https://jindrichpolivka.github.io/Takeaways/)
