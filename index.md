@@ -13,7 +13,6 @@ HI
 ## Case Studies
 
 - [Viola](https://jindrichpolivka.github.io/content-first/)
-- Project Presentation?
 
 ## Extras
 
