@@ -8,7 +8,7 @@ THis is
 
 - My Story
 - [CV/résumé](https://jindrichpolivka.github.io/experience/)
-- Voice, Tone, and Style guide
+- [Voice, Tone, and Style guide](https://jindrichpolivka.github.io/voice-tone/)
 - Contact: `jindrich.polivka@email.cz`
 
 ## Case Studies
