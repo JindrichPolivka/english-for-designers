@@ -1,8 +1,8 @@
 HI
 
-# Hi, I’m Jindra
+## Hi, I’m Jindra
 
-THis is
+### Iam a graphic designer and on this page you can learn more about me and my work
 
 ## About Me
 
