@@ -20,3 +20,4 @@
 
 ## Thesis
 - [abstract](https://jindrichpolivka.github.io/Abstract/)
+- [presentation](https://jindrichpolivka.github.io/thesis-presentation/)
